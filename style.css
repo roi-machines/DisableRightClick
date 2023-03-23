@@ -1,0 +1,8 @@
+/*for VH this is in theme.scss.liquid for other clients check base.css*/
+body {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    
+  }
